@@ -32,19 +32,6 @@ public class Persona {
         return nombre + " - " + edad; // Devuelve el nombre y la edad de la persona en formato String
     }
 
-    public String getNombre() {
-        return nombre;
-    }
+    // TODO: Agregar getters y setters para los atributos de la clase
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public int getEdad() {
-        return edad;
-    }
-
-    public void setEdad(int edad) {
-        this.edad = edad;
-    }
 }

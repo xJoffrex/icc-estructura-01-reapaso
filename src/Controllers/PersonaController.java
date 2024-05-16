@@ -8,7 +8,7 @@ import Models.Persona;
 public class PersonaController {
     /**
      * Método para ordenar un arreglo de Persona por edad utilizando el algoritmo de
-     * burbuja.
+     * inserscion .
      * 
      * @param personas Array de Persona a ordenar.
      */
